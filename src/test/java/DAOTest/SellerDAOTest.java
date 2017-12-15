@@ -1,3 +1,5 @@
+package DAOTest;
+
 import co.za.olo.DAO.SellerDAO;
 import co.za.olo.entities.CustomerEntity;
 import co.za.olo.entities.SellerEntity;

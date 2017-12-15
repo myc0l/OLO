@@ -1,3 +1,5 @@
+package DAOTest;
+
 import co.za.olo.DAO.CustomerDAO;
 import co.za.olo.entities.CustomerEntity;
 import org.junit.Assert;
